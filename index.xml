@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chogo photography</title>
-    <link>http://chogo.photography/</link>
+    <link>https://chogo.photography/</link>
     <description>Recent content on chogo photography</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://chogo.photography/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chogo.photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cleveland Skatepark</title>
-      <link>http://chogo.photography/street/skatepark-cleveland/</link>
+      <link>https://chogo.photography/street/skatepark-cleveland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://chogo.photography/street/skatepark-cleveland/</guid>
+      <guid>https://chogo.photography/street/skatepark-cleveland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>404</title>
-      <link>http://chogo.photography/404.html</link>
+      <link>https://chogo.photography/404.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://chogo.photography/404.html</guid>
+      <guid>https://chogo.photography/404.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://chogo.photography/about/</link>
+      <link>https://chogo.photography/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://chogo.photography/about/</guid>
+      <guid>https://chogo.photography/about/</guid>
       <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.  This is demo site for Eternity theme. All images are taken from Unsplash.  Features   Configurable features.
   Multiple images support.
   Clean, fresh, minimalist.
