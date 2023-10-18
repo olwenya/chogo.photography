@@ -2,7 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chogo.photography/street/skatepark-cleveland/</loc>
+    <loc>https://chogo.photography/skatepark-cleveland/</loc>
+  </url><url>
+    <loc>https://chogo.photography/windmill/</loc>
   </url><url>
     <loc>https://chogo.photography/</loc>
   </url><url>
@@ -10,14 +12,14 @@
   </url><url>
     <loc>https://chogo.photography/about/</loc>
   </url><url>
-    <loc>https://chogo.photography/tags/archive/</loc>
-  </url><url>
-    <loc>https://chogo.photography/tags/people/</loc>
+    <loc>https://chogo.photography/tags/still/</loc>
   </url><url>
     <loc>https://chogo.photography/tags/street/</loc>
   </url><url>
-    <loc>https://chogo.photography/street/</loc>
-  </url><url>
     <loc>https://chogo.photography/tags/</loc>
+  </url><url>
+    <loc>https://chogo.photography/tags/work/</loc>
+  </url><url>
+    <loc>https://chogo.photography/work/</loc>
   </url>
 </urlset>
