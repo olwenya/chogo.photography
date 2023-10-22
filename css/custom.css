@@ -13,7 +13,7 @@ a.active,
 
 .slider,
 .navigate {
-	background-color: rgba(255,255,255,0.91);
+	background-color: rgba(255,255,255,0.97);
 }
 
 .exif {
@@ -22,4 +22,13 @@ a.active,
 
 img.logo {
     height: auto;
+}
+
+.button.is-white.is-outlined {
+    color: var(--dark-light);
+    border-color: var(--dark-light);
+}
+.button.is-white.is-outlined:hover {
+    border-color: var(--main-light);
+    color: var(--main-light);
 }
