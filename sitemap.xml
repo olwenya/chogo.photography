@@ -2,38 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chogo.photography/skatepark-cleveland/</loc>
-  </url><url>
-    <loc>https://chogo.photography/windmill/</loc>
-  </url><url>
-    <loc>https://chogo.photography/wallhooks/</loc>
-  </url><url>
-    <loc>https://chogo.photography/lionface/</loc>
-  </url><url>
-    <loc>https://chogo.photography/lemandsnow/</loc>
-  </url><url>
-    <loc>https://chogo.photography/canon34/</loc>
-  </url><url>
-    <loc>https://chogo.photography/flagler-university/</loc>
-  </url><url>
     <loc>https://chogo.photography/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/tags/bw/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/tags/still/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/tags/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/withdrawn/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/tags/work/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/work/</loc>
+    <lastmod>2023-11-21T11:09:03-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/tags/architecture/</loc>
+    <lastmod>2023-11-21T10:26:28-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/blue-face-building/</loc>
+    <lastmod>2023-11-21T10:26:28-05:00</lastmod>
+  </url><url>
+    <loc>https://chogo.photography/potter/</loc>
+    <lastmod>2023-11-21T09:42:23-05:00</lastmod>
   </url><url>
     <loc>https://chogo.photography/404.html</loc>
   </url><url>
     <loc>https://chogo.photography/about/</loc>
   </url><url>
-    <loc>https://chogo.photography/tags/architecture/</loc>
+    <loc>https://chogo.photography/canon34/</loc>
   </url><url>
-    <loc>https://chogo.photography/tags/bw/</loc>
+    <loc>https://chogo.photography/skatepark-cleveland/</loc>
   </url><url>
-    <loc>https://chogo.photography/tags/still/</loc>
+    <loc>https://chogo.photography/flagler-university/</loc>
+  </url><url>
+    <loc>https://chogo.photography/lemandsnow/</loc>
+  </url><url>
+    <loc>https://chogo.photography/lionface/</loc>
   </url><url>
     <loc>https://chogo.photography/tags/street/</loc>
   </url><url>
-    <loc>https://chogo.photography/tags/</loc>
+    <loc>https://chogo.photography/wallhooks/</loc>
   </url><url>
-    <loc>https://chogo.photography/tags/work/</loc>
-  </url><url>
-    <loc>https://chogo.photography/work/</loc>
+    <loc>https://chogo.photography/windmill/</loc>
   </url>
 </urlset>

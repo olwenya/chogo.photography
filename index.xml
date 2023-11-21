@@ -4,67 +4,32 @@
     <title>chogo photography</title>
     <link>https://chogo.photography/</link>
     <description>Recent content on chogo photography</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chogo.photography/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Nov 2023 11:09:03 -0500</lastBuildDate><atom:link href="https://chogo.photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cleveland Skatepark</title>
-      <link>https://chogo.photography/skatepark-cleveland/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Withdrawn</title>
+      <link>https://chogo.photography/withdrawn/</link>
+      <pubDate>Tue, 21 Nov 2023 11:09:03 -0500</pubDate>
       
-      <guid>https://chogo.photography/skatepark-cleveland/</guid>
+      <guid>https://chogo.photography/withdrawn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Windmill</title>
-      <link>https://chogo.photography/windmill/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Blue Face Building</title>
+      <link>https://chogo.photography/blue-face-building/</link>
+      <pubDate>Tue, 21 Nov 2023 10:26:28 -0500</pubDate>
       
-      <guid>https://chogo.photography/windmill/</guid>
+      <guid>https://chogo.photography/blue-face-building/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wallhooks</title>
-      <link>https://chogo.photography/wallhooks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Potter</title>
+      <link>https://chogo.photography/potter/</link>
+      <pubDate>Tue, 21 Nov 2023 09:42:23 -0500</pubDate>
       
-      <guid>https://chogo.photography/wallhooks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lion Face</title>
-      <link>https://chogo.photography/lionface/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chogo.photography/lionface/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lem &amp; Snow</title>
-      <link>https://chogo.photography/lemandsnow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chogo.photography/lemandsnow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Canon #34, Fort Clinch State Park</title>
-      <link>https://chogo.photography/canon34/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chogo.photography/canon34/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flagler University</title>
-      <link>https://chogo.photography/flagler-university/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chogo.photography/flagler-university/</guid>
+      <guid>https://chogo.photography/potter/</guid>
       <description></description>
     </item>
     
@@ -84,9 +49,72 @@
       
       <guid>https://chogo.photography/about/</guid>
       <description>I am&amp;hellip; Kenyan Born and raised in Nakuru.
-a Photographer Based in Columbus Ohio
+a freelance photographer Based in Columbus Ohio
 an Aesthete Who studies artists especially from the Rennaisance and Impressionism periods.
 a Software Engineer By trade and I use my skills to support my art.</description>
+    </item>
+    
+    <item>
+      <title>Canon #34, Fort Clinch State Park</title>
+      <link>https://chogo.photography/canon34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/canon34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleveland Skatepark</title>
+      <link>https://chogo.photography/skatepark-cleveland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/skatepark-cleveland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flagler University</title>
+      <link>https://chogo.photography/flagler-university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/flagler-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lem &amp; Snow</title>
+      <link>https://chogo.photography/lemandsnow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/lemandsnow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lion Face</title>
+      <link>https://chogo.photography/lionface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/lionface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallhooks</title>
+      <link>https://chogo.photography/wallhooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/wallhooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windmill</title>
+      <link>https://chogo.photography/windmill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chogo.photography/windmill/</guid>
+      <description></description>
     </item>
     
   </channel>
